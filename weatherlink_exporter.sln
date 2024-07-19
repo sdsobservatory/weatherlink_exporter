@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35111.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "weatherlink_exporter", "weatherlink_exporter\weatherlink_exporter.csproj", "{D697F150-ACD3-4866-9283-1096E12F7174}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D697F150-ACD3-4866-9283-1096E12F7174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D697F150-ACD3-4866-9283-1096E12F7174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D697F150-ACD3-4866-9283-1096E12F7174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D697F150-ACD3-4866-9283-1096E12F7174}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4B49276-45AB-4216-85BF-9A23F03D588E}
+	EndGlobalSection
+EndGlobal

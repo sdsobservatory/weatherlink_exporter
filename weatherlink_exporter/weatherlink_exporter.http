@@ -1,0 +1,6 @@
+@weatherlink_exporter_HostAddress = http://localhost:5048
+
+GET {{weatherlink_exporter_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
