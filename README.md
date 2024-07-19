@@ -1,4 +1,4 @@
-# David WeatherLink Prometheus Exporter
+# Davis WeatherLink Prometheus Exporter
 Query the public WeatherLink API and convert the data to a form prometheus can read.
 
 # Configuration
